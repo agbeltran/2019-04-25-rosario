@@ -300,8 +300,11 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Datos</h2>
 
+<h3>Terminal de Unix</h3>
+
 Para la lección de la terminal de Unix, usaremos los datos del siguiente archivo: [data-shell.zip](https://swcarpentry.github.io/shell-novice/data/data-shell.zip)
 
+<h3>Python</h3>
 
 Para la lección de Python usaremos los siguientes datos del "Portal Project Teaching Database" -
 [disponible en FigShare](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459).
