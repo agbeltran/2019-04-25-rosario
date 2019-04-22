@@ -275,6 +275,7 @@ please preview your site before committing, and make sure to run
 {% endcomment %}
 <h2 id="syllabus">Contenido</h2>
 
+
 {% if page.carpentry == "swc" %}
 {% include sc/syllabus.html %}
 {% elsif page.carpentry == "dc" %}
@@ -297,7 +298,31 @@ please preview your site before committing, and make sure to run
 'tools/check' as well.
 {% endcomment %}
 
-<h2 id="setup">Setup</h2>
+<h2 id="setup">Datos</h2>
+
+Para la lección de la terminal de Unix, usaremos los datos del siguiente archivo: [data-shell.zip](https://swcarpentry.github.io/shell-novice/data/data-shell.zip)
+
+
+Para la lección de Python usaremos los siguientes datos del "Portal Project Teaching Database" -
+[disponible en FigShare](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459).
+
+Usaremos los 6 archivos listados a continuación. Puedes bajarlos a tu computadora, haciendo click 
+[aquí](https://github.com/weecology/portal-teachingdb/archive/master.zip), y tendrás todos los archivos en un único archivo comprimido. Tendrás que descomprimir el archivo después de bajarlo.
+
+
+O puedes bajar cada archivo individualmente, usando los siguientes enlaces:
+
+- [surveys.csv](https://ndownloader.figshare.com/files/10717177)
+- [species.csv](https://ndownloader.figshare.com/files/3299483)
+- [speciesSubset.csv]({{ page.root }}/data/speciesSubset.csv)
+- [plots.csv](https://ndownloader.figshare.com/files/3299474)
+- [bouldercreek_09_2013.txt]({{ page.root }}/data/bouldercreek_09_2013.txt)
+- [SQL Database](https://ndownloader.figshare.com/files/11188550)
+
+
+
+
+<h2 id="setup">Configuración</h2>
 
 <p>
   To participate in a
