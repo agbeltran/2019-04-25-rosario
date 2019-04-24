@@ -238,10 +238,6 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 {% include lc/schedule.html %}
 {% endif %}
 
-Notas colaborativas:
-
-https://tinyurl.com/2019-04-25-rosario 
-
 
 {% comment %}
 Collaborative Notes
