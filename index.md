@@ -241,7 +241,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <h2>Notas colaborativas</h2>
 
 Vamos a usar este documento de Google para tomar notas colaborativas:
-https://tinyurl.com/2019-04-25-rosario 
+[https://tinyurl.com/2019-04-25-rosario](https://tinyurl.com/2019-04-25-rosario)
 
 
 {% comment %}
